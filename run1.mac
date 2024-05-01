@@ -1,0 +1,2009 @@
+/run/numberOfThreads 1 
+/run/initialize 
+/control/verbose 0 
+/run/verbose 0
+/event/verbose 0
+/tracking/verbose 0
+#
+/gun/particle mu-
+/gun/energy 1.99 GeV 
+/run/beamOn 1
+/gun/energy 1.99 GeV 
+/run/beamOn 1
+/gun/energy 1.99 GeV 
+/run/beamOn 1
+/gun/energy 1.99 GeV 
+/run/beamOn 1
+/gun/energy 1.99 GeV 
+/run/beamOn 1
+/gun/energy 1.99 GeV 
+/run/beamOn 1
+/gun/energy 1.99 GeV 
+/run/beamOn 1
+/gun/energy 1.99 GeV 
+/run/beamOn 1
+/gun/energy 1.99 GeV 
+/run/beamOn 1
+/gun/energy 1.99 GeV 
+/run/beamOn 1
+/gun/energy 1.99020202020202 GeV 
+/run/beamOn 1
+/gun/energy 1.99020202020202 GeV 
+/run/beamOn 1
+/gun/energy 1.99020202020202 GeV 
+/run/beamOn 1
+/gun/energy 1.99020202020202 GeV 
+/run/beamOn 1
+/gun/energy 1.99020202020202 GeV 
+/run/beamOn 1
+/gun/energy 1.99020202020202 GeV 
+/run/beamOn 1
+/gun/energy 1.99020202020202 GeV 
+/run/beamOn 1
+/gun/energy 1.99020202020202 GeV 
+/run/beamOn 1
+/gun/energy 1.99020202020202 GeV 
+/run/beamOn 1
+/gun/energy 1.99020202020202 GeV 
+/run/beamOn 1
+/gun/energy 1.9904040404040404 GeV 
+/run/beamOn 1
+/gun/energy 1.9904040404040404 GeV 
+/run/beamOn 1
+/gun/energy 1.9904040404040404 GeV 
+/run/beamOn 1
+/gun/energy 1.9904040404040404 GeV 
+/run/beamOn 1
+/gun/energy 1.9904040404040404 GeV 
+/run/beamOn 1
+/gun/energy 1.9904040404040404 GeV 
+/run/beamOn 1
+/gun/energy 1.9904040404040404 GeV 
+/run/beamOn 1
+/gun/energy 1.9904040404040404 GeV 
+/run/beamOn 1
+/gun/energy 1.9904040404040404 GeV 
+/run/beamOn 1
+/gun/energy 1.9904040404040404 GeV 
+/run/beamOn 1
+/gun/energy 1.9906060606060605 GeV 
+/run/beamOn 1
+/gun/energy 1.9906060606060605 GeV 
+/run/beamOn 1
+/gun/energy 1.9906060606060605 GeV 
+/run/beamOn 1
+/gun/energy 1.9906060606060605 GeV 
+/run/beamOn 1
+/gun/energy 1.9906060606060605 GeV 
+/run/beamOn 1
+/gun/energy 1.9906060606060605 GeV 
+/run/beamOn 1
+/gun/energy 1.9906060606060605 GeV 
+/run/beamOn 1
+/gun/energy 1.9906060606060605 GeV 
+/run/beamOn 1
+/gun/energy 1.9906060606060605 GeV 
+/run/beamOn 1
+/gun/energy 1.9906060606060605 GeV 
+/run/beamOn 1
+/gun/energy 1.9908080808080808 GeV 
+/run/beamOn 1
+/gun/energy 1.9908080808080808 GeV 
+/run/beamOn 1
+/gun/energy 1.9908080808080808 GeV 
+/run/beamOn 1
+/gun/energy 1.9908080808080808 GeV 
+/run/beamOn 1
+/gun/energy 1.9908080808080808 GeV 
+/run/beamOn 1
+/gun/energy 1.9908080808080808 GeV 
+/run/beamOn 1
+/gun/energy 1.9908080808080808 GeV 
+/run/beamOn 1
+/gun/energy 1.9908080808080808 GeV 
+/run/beamOn 1
+/gun/energy 1.9908080808080808 GeV 
+/run/beamOn 1
+/gun/energy 1.9908080808080808 GeV 
+/run/beamOn 1
+/gun/energy 1.991010101010101 GeV 
+/run/beamOn 1
+/gun/energy 1.991010101010101 GeV 
+/run/beamOn 1
+/gun/energy 1.991010101010101 GeV 
+/run/beamOn 1
+/gun/energy 1.991010101010101 GeV 
+/run/beamOn 1
+/gun/energy 1.991010101010101 GeV 
+/run/beamOn 1
+/gun/energy 1.991010101010101 GeV 
+/run/beamOn 1
+/gun/energy 1.991010101010101 GeV 
+/run/beamOn 1
+/gun/energy 1.991010101010101 GeV 
+/run/beamOn 1
+/gun/energy 1.991010101010101 GeV 
+/run/beamOn 1
+/gun/energy 1.991010101010101 GeV 
+/run/beamOn 1
+/gun/energy 1.9912121212121212 GeV 
+/run/beamOn 1
+/gun/energy 1.9912121212121212 GeV 
+/run/beamOn 1
+/gun/energy 1.9912121212121212 GeV 
+/run/beamOn 1
+/gun/energy 1.9912121212121212 GeV 
+/run/beamOn 1
+/gun/energy 1.9912121212121212 GeV 
+/run/beamOn 1
+/gun/energy 1.9912121212121212 GeV 
+/run/beamOn 1
+/gun/energy 1.9912121212121212 GeV 
+/run/beamOn 1
+/gun/energy 1.9912121212121212 GeV 
+/run/beamOn 1
+/gun/energy 1.9912121212121212 GeV 
+/run/beamOn 1
+/gun/energy 1.9912121212121212 GeV 
+/run/beamOn 1
+/gun/energy 1.9914141414141413 GeV 
+/run/beamOn 1
+/gun/energy 1.9914141414141413 GeV 
+/run/beamOn 1
+/gun/energy 1.9914141414141413 GeV 
+/run/beamOn 1
+/gun/energy 1.9914141414141413 GeV 
+/run/beamOn 1
+/gun/energy 1.9914141414141413 GeV 
+/run/beamOn 1
+/gun/energy 1.9914141414141413 GeV 
+/run/beamOn 1
+/gun/energy 1.9914141414141413 GeV 
+/run/beamOn 1
+/gun/energy 1.9914141414141413 GeV 
+/run/beamOn 1
+/gun/energy 1.9914141414141413 GeV 
+/run/beamOn 1
+/gun/energy 1.9914141414141413 GeV 
+/run/beamOn 1
+/gun/energy 1.9916161616161616 GeV 
+/run/beamOn 1
+/gun/energy 1.9916161616161616 GeV 
+/run/beamOn 1
+/gun/energy 1.9916161616161616 GeV 
+/run/beamOn 1
+/gun/energy 1.9916161616161616 GeV 
+/run/beamOn 1
+/gun/energy 1.9916161616161616 GeV 
+/run/beamOn 1
+/gun/energy 1.9916161616161616 GeV 
+/run/beamOn 1
+/gun/energy 1.9916161616161616 GeV 
+/run/beamOn 1
+/gun/energy 1.9916161616161616 GeV 
+/run/beamOn 1
+/gun/energy 1.9916161616161616 GeV 
+/run/beamOn 1
+/gun/energy 1.9916161616161616 GeV 
+/run/beamOn 1
+/gun/energy 1.9918181818181817 GeV 
+/run/beamOn 1
+/gun/energy 1.9918181818181817 GeV 
+/run/beamOn 1
+/gun/energy 1.9918181818181817 GeV 
+/run/beamOn 1
+/gun/energy 1.9918181818181817 GeV 
+/run/beamOn 1
+/gun/energy 1.9918181818181817 GeV 
+/run/beamOn 1
+/gun/energy 1.9918181818181817 GeV 
+/run/beamOn 1
+/gun/energy 1.9918181818181817 GeV 
+/run/beamOn 1
+/gun/energy 1.9918181818181817 GeV 
+/run/beamOn 1
+/gun/energy 1.9918181818181817 GeV 
+/run/beamOn 1
+/gun/energy 1.9918181818181817 GeV 
+/run/beamOn 1
+/gun/energy 1.992020202020202 GeV 
+/run/beamOn 1
+/gun/energy 1.992020202020202 GeV 
+/run/beamOn 1
+/gun/energy 1.992020202020202 GeV 
+/run/beamOn 1
+/gun/energy 1.992020202020202 GeV 
+/run/beamOn 1
+/gun/energy 1.992020202020202 GeV 
+/run/beamOn 1
+/gun/energy 1.992020202020202 GeV 
+/run/beamOn 1
+/gun/energy 1.992020202020202 GeV 
+/run/beamOn 1
+/gun/energy 1.992020202020202 GeV 
+/run/beamOn 1
+/gun/energy 1.992020202020202 GeV 
+/run/beamOn 1
+/gun/energy 1.992020202020202 GeV 
+/run/beamOn 1
+/gun/energy 1.9922222222222221 GeV 
+/run/beamOn 1
+/gun/energy 1.9922222222222221 GeV 
+/run/beamOn 1
+/gun/energy 1.9922222222222221 GeV 
+/run/beamOn 1
+/gun/energy 1.9922222222222221 GeV 
+/run/beamOn 1
+/gun/energy 1.9922222222222221 GeV 
+/run/beamOn 1
+/gun/energy 1.9922222222222221 GeV 
+/run/beamOn 1
+/gun/energy 1.9922222222222221 GeV 
+/run/beamOn 1
+/gun/energy 1.9922222222222221 GeV 
+/run/beamOn 1
+/gun/energy 1.9922222222222221 GeV 
+/run/beamOn 1
+/gun/energy 1.9922222222222221 GeV 
+/run/beamOn 1
+/gun/energy 1.9924242424242424 GeV 
+/run/beamOn 1
+/gun/energy 1.9924242424242424 GeV 
+/run/beamOn 1
+/gun/energy 1.9924242424242424 GeV 
+/run/beamOn 1
+/gun/energy 1.9924242424242424 GeV 
+/run/beamOn 1
+/gun/energy 1.9924242424242424 GeV 
+/run/beamOn 1
+/gun/energy 1.9924242424242424 GeV 
+/run/beamOn 1
+/gun/energy 1.9924242424242424 GeV 
+/run/beamOn 1
+/gun/energy 1.9924242424242424 GeV 
+/run/beamOn 1
+/gun/energy 1.9924242424242424 GeV 
+/run/beamOn 1
+/gun/energy 1.9924242424242424 GeV 
+/run/beamOn 1
+/gun/energy 1.9926262626262625 GeV 
+/run/beamOn 1
+/gun/energy 1.9926262626262625 GeV 
+/run/beamOn 1
+/gun/energy 1.9926262626262625 GeV 
+/run/beamOn 1
+/gun/energy 1.9926262626262625 GeV 
+/run/beamOn 1
+/gun/energy 1.9926262626262625 GeV 
+/run/beamOn 1
+/gun/energy 1.9926262626262625 GeV 
+/run/beamOn 1
+/gun/energy 1.9926262626262625 GeV 
+/run/beamOn 1
+/gun/energy 1.9926262626262625 GeV 
+/run/beamOn 1
+/gun/energy 1.9926262626262625 GeV 
+/run/beamOn 1
+/gun/energy 1.9926262626262625 GeV 
+/run/beamOn 1
+/gun/energy 1.9928282828282828 GeV 
+/run/beamOn 1
+/gun/energy 1.9928282828282828 GeV 
+/run/beamOn 1
+/gun/energy 1.9928282828282828 GeV 
+/run/beamOn 1
+/gun/energy 1.9928282828282828 GeV 
+/run/beamOn 1
+/gun/energy 1.9928282828282828 GeV 
+/run/beamOn 1
+/gun/energy 1.9928282828282828 GeV 
+/run/beamOn 1
+/gun/energy 1.9928282828282828 GeV 
+/run/beamOn 1
+/gun/energy 1.9928282828282828 GeV 
+/run/beamOn 1
+/gun/energy 1.9928282828282828 GeV 
+/run/beamOn 1
+/gun/energy 1.9928282828282828 GeV 
+/run/beamOn 1
+/gun/energy 1.993030303030303 GeV 
+/run/beamOn 1
+/gun/energy 1.993030303030303 GeV 
+/run/beamOn 1
+/gun/energy 1.993030303030303 GeV 
+/run/beamOn 1
+/gun/energy 1.993030303030303 GeV 
+/run/beamOn 1
+/gun/energy 1.993030303030303 GeV 
+/run/beamOn 1
+/gun/energy 1.993030303030303 GeV 
+/run/beamOn 1
+/gun/energy 1.993030303030303 GeV 
+/run/beamOn 1
+/gun/energy 1.993030303030303 GeV 
+/run/beamOn 1
+/gun/energy 1.993030303030303 GeV 
+/run/beamOn 1
+/gun/energy 1.993030303030303 GeV 
+/run/beamOn 1
+/gun/energy 1.9932323232323232 GeV 
+/run/beamOn 1
+/gun/energy 1.9932323232323232 GeV 
+/run/beamOn 1
+/gun/energy 1.9932323232323232 GeV 
+/run/beamOn 1
+/gun/energy 1.9932323232323232 GeV 
+/run/beamOn 1
+/gun/energy 1.9932323232323232 GeV 
+/run/beamOn 1
+/gun/energy 1.9932323232323232 GeV 
+/run/beamOn 1
+/gun/energy 1.9932323232323232 GeV 
+/run/beamOn 1
+/gun/energy 1.9932323232323232 GeV 
+/run/beamOn 1
+/gun/energy 1.9932323232323232 GeV 
+/run/beamOn 1
+/gun/energy 1.9932323232323232 GeV 
+/run/beamOn 1
+/gun/energy 1.9934343434343433 GeV 
+/run/beamOn 1
+/gun/energy 1.9934343434343433 GeV 
+/run/beamOn 1
+/gun/energy 1.9934343434343433 GeV 
+/run/beamOn 1
+/gun/energy 1.9934343434343433 GeV 
+/run/beamOn 1
+/gun/energy 1.9934343434343433 GeV 
+/run/beamOn 1
+/gun/energy 1.9934343434343433 GeV 
+/run/beamOn 1
+/gun/energy 1.9934343434343433 GeV 
+/run/beamOn 1
+/gun/energy 1.9934343434343433 GeV 
+/run/beamOn 1
+/gun/energy 1.9934343434343433 GeV 
+/run/beamOn 1
+/gun/energy 1.9934343434343433 GeV 
+/run/beamOn 1
+/gun/energy 1.9936363636363637 GeV 
+/run/beamOn 1
+/gun/energy 1.9936363636363637 GeV 
+/run/beamOn 1
+/gun/energy 1.9936363636363637 GeV 
+/run/beamOn 1
+/gun/energy 1.9936363636363637 GeV 
+/run/beamOn 1
+/gun/energy 1.9936363636363637 GeV 
+/run/beamOn 1
+/gun/energy 1.9936363636363637 GeV 
+/run/beamOn 1
+/gun/energy 1.9936363636363637 GeV 
+/run/beamOn 1
+/gun/energy 1.9936363636363637 GeV 
+/run/beamOn 1
+/gun/energy 1.9936363636363637 GeV 
+/run/beamOn 1
+/gun/energy 1.9936363636363637 GeV 
+/run/beamOn 1
+/gun/energy 1.9938383838383837 GeV 
+/run/beamOn 1
+/gun/energy 1.9938383838383837 GeV 
+/run/beamOn 1
+/gun/energy 1.9938383838383837 GeV 
+/run/beamOn 1
+/gun/energy 1.9938383838383837 GeV 
+/run/beamOn 1
+/gun/energy 1.9938383838383837 GeV 
+/run/beamOn 1
+/gun/energy 1.9938383838383837 GeV 
+/run/beamOn 1
+/gun/energy 1.9938383838383837 GeV 
+/run/beamOn 1
+/gun/energy 1.9938383838383837 GeV 
+/run/beamOn 1
+/gun/energy 1.9938383838383837 GeV 
+/run/beamOn 1
+/gun/energy 1.9938383838383837 GeV 
+/run/beamOn 1
+/gun/energy 1.994040404040404 GeV 
+/run/beamOn 1
+/gun/energy 1.994040404040404 GeV 
+/run/beamOn 1
+/gun/energy 1.994040404040404 GeV 
+/run/beamOn 1
+/gun/energy 1.994040404040404 GeV 
+/run/beamOn 1
+/gun/energy 1.994040404040404 GeV 
+/run/beamOn 1
+/gun/energy 1.994040404040404 GeV 
+/run/beamOn 1
+/gun/energy 1.994040404040404 GeV 
+/run/beamOn 1
+/gun/energy 1.994040404040404 GeV 
+/run/beamOn 1
+/gun/energy 1.994040404040404 GeV 
+/run/beamOn 1
+/gun/energy 1.994040404040404 GeV 
+/run/beamOn 1
+/gun/energy 1.9942424242424241 GeV 
+/run/beamOn 1
+/gun/energy 1.9942424242424241 GeV 
+/run/beamOn 1
+/gun/energy 1.9942424242424241 GeV 
+/run/beamOn 1
+/gun/energy 1.9942424242424241 GeV 
+/run/beamOn 1
+/gun/energy 1.9942424242424241 GeV 
+/run/beamOn 1
+/gun/energy 1.9942424242424241 GeV 
+/run/beamOn 1
+/gun/energy 1.9942424242424241 GeV 
+/run/beamOn 1
+/gun/energy 1.9942424242424241 GeV 
+/run/beamOn 1
+/gun/energy 1.9942424242424241 GeV 
+/run/beamOn 1
+/gun/energy 1.9942424242424241 GeV 
+/run/beamOn 1
+/gun/energy 1.9944444444444445 GeV 
+/run/beamOn 1
+/gun/energy 1.9944444444444445 GeV 
+/run/beamOn 1
+/gun/energy 1.9944444444444445 GeV 
+/run/beamOn 1
+/gun/energy 1.9944444444444445 GeV 
+/run/beamOn 1
+/gun/energy 1.9944444444444445 GeV 
+/run/beamOn 1
+/gun/energy 1.9944444444444445 GeV 
+/run/beamOn 1
+/gun/energy 1.9944444444444445 GeV 
+/run/beamOn 1
+/gun/energy 1.9944444444444445 GeV 
+/run/beamOn 1
+/gun/energy 1.9944444444444445 GeV 
+/run/beamOn 1
+/gun/energy 1.9944444444444445 GeV 
+/run/beamOn 1
+/gun/energy 1.9946464646464646 GeV 
+/run/beamOn 1
+/gun/energy 1.9946464646464646 GeV 
+/run/beamOn 1
+/gun/energy 1.9946464646464646 GeV 
+/run/beamOn 1
+/gun/energy 1.9946464646464646 GeV 
+/run/beamOn 1
+/gun/energy 1.9946464646464646 GeV 
+/run/beamOn 1
+/gun/energy 1.9946464646464646 GeV 
+/run/beamOn 1
+/gun/energy 1.9946464646464646 GeV 
+/run/beamOn 1
+/gun/energy 1.9946464646464646 GeV 
+/run/beamOn 1
+/gun/energy 1.9946464646464646 GeV 
+/run/beamOn 1
+/gun/energy 1.9946464646464646 GeV 
+/run/beamOn 1
+/gun/energy 1.9948484848484849 GeV 
+/run/beamOn 1
+/gun/energy 1.9948484848484849 GeV 
+/run/beamOn 1
+/gun/energy 1.9948484848484849 GeV 
+/run/beamOn 1
+/gun/energy 1.9948484848484849 GeV 
+/run/beamOn 1
+/gun/energy 1.9948484848484849 GeV 
+/run/beamOn 1
+/gun/energy 1.9948484848484849 GeV 
+/run/beamOn 1
+/gun/energy 1.9948484848484849 GeV 
+/run/beamOn 1
+/gun/energy 1.9948484848484849 GeV 
+/run/beamOn 1
+/gun/energy 1.9948484848484849 GeV 
+/run/beamOn 1
+/gun/energy 1.9948484848484849 GeV 
+/run/beamOn 1
+/gun/energy 1.995050505050505 GeV 
+/run/beamOn 1
+/gun/energy 1.995050505050505 GeV 
+/run/beamOn 1
+/gun/energy 1.995050505050505 GeV 
+/run/beamOn 1
+/gun/energy 1.995050505050505 GeV 
+/run/beamOn 1
+/gun/energy 1.995050505050505 GeV 
+/run/beamOn 1
+/gun/energy 1.995050505050505 GeV 
+/run/beamOn 1
+/gun/energy 1.995050505050505 GeV 
+/run/beamOn 1
+/gun/energy 1.995050505050505 GeV 
+/run/beamOn 1
+/gun/energy 1.995050505050505 GeV 
+/run/beamOn 1
+/gun/energy 1.995050505050505 GeV 
+/run/beamOn 1
+/gun/energy 1.9952525252525253 GeV 
+/run/beamOn 1
+/gun/energy 1.9952525252525253 GeV 
+/run/beamOn 1
+/gun/energy 1.9952525252525253 GeV 
+/run/beamOn 1
+/gun/energy 1.9952525252525253 GeV 
+/run/beamOn 1
+/gun/energy 1.9952525252525253 GeV 
+/run/beamOn 1
+/gun/energy 1.9952525252525253 GeV 
+/run/beamOn 1
+/gun/energy 1.9952525252525253 GeV 
+/run/beamOn 1
+/gun/energy 1.9952525252525253 GeV 
+/run/beamOn 1
+/gun/energy 1.9952525252525253 GeV 
+/run/beamOn 1
+/gun/energy 1.9952525252525253 GeV 
+/run/beamOn 1
+/gun/energy 1.9954545454545454 GeV 
+/run/beamOn 1
+/gun/energy 1.9954545454545454 GeV 
+/run/beamOn 1
+/gun/energy 1.9954545454545454 GeV 
+/run/beamOn 1
+/gun/energy 1.9954545454545454 GeV 
+/run/beamOn 1
+/gun/energy 1.9954545454545454 GeV 
+/run/beamOn 1
+/gun/energy 1.9954545454545454 GeV 
+/run/beamOn 1
+/gun/energy 1.9954545454545454 GeV 
+/run/beamOn 1
+/gun/energy 1.9954545454545454 GeV 
+/run/beamOn 1
+/gun/energy 1.9954545454545454 GeV 
+/run/beamOn 1
+/gun/energy 1.9954545454545454 GeV 
+/run/beamOn 1
+/gun/energy 1.9956565656565657 GeV 
+/run/beamOn 1
+/gun/energy 1.9956565656565657 GeV 
+/run/beamOn 1
+/gun/energy 1.9956565656565657 GeV 
+/run/beamOn 1
+/gun/energy 1.9956565656565657 GeV 
+/run/beamOn 1
+/gun/energy 1.9956565656565657 GeV 
+/run/beamOn 1
+/gun/energy 1.9956565656565657 GeV 
+/run/beamOn 1
+/gun/energy 1.9956565656565657 GeV 
+/run/beamOn 1
+/gun/energy 1.9956565656565657 GeV 
+/run/beamOn 1
+/gun/energy 1.9956565656565657 GeV 
+/run/beamOn 1
+/gun/energy 1.9956565656565657 GeV 
+/run/beamOn 1
+/gun/energy 1.9958585858585858 GeV 
+/run/beamOn 1
+/gun/energy 1.9958585858585858 GeV 
+/run/beamOn 1
+/gun/energy 1.9958585858585858 GeV 
+/run/beamOn 1
+/gun/energy 1.9958585858585858 GeV 
+/run/beamOn 1
+/gun/energy 1.9958585858585858 GeV 
+/run/beamOn 1
+/gun/energy 1.9958585858585858 GeV 
+/run/beamOn 1
+/gun/energy 1.9958585858585858 GeV 
+/run/beamOn 1
+/gun/energy 1.9958585858585858 GeV 
+/run/beamOn 1
+/gun/energy 1.9958585858585858 GeV 
+/run/beamOn 1
+/gun/energy 1.9958585858585858 GeV 
+/run/beamOn 1
+/gun/energy 1.996060606060606 GeV 
+/run/beamOn 1
+/gun/energy 1.996060606060606 GeV 
+/run/beamOn 1
+/gun/energy 1.996060606060606 GeV 
+/run/beamOn 1
+/gun/energy 1.996060606060606 GeV 
+/run/beamOn 1
+/gun/energy 1.996060606060606 GeV 
+/run/beamOn 1
+/gun/energy 1.996060606060606 GeV 
+/run/beamOn 1
+/gun/energy 1.996060606060606 GeV 
+/run/beamOn 1
+/gun/energy 1.996060606060606 GeV 
+/run/beamOn 1
+/gun/energy 1.996060606060606 GeV 
+/run/beamOn 1
+/gun/energy 1.996060606060606 GeV 
+/run/beamOn 1
+/gun/energy 1.9962626262626262 GeV 
+/run/beamOn 1
+/gun/energy 1.9962626262626262 GeV 
+/run/beamOn 1
+/gun/energy 1.9962626262626262 GeV 
+/run/beamOn 1
+/gun/energy 1.9962626262626262 GeV 
+/run/beamOn 1
+/gun/energy 1.9962626262626262 GeV 
+/run/beamOn 1
+/gun/energy 1.9962626262626262 GeV 
+/run/beamOn 1
+/gun/energy 1.9962626262626262 GeV 
+/run/beamOn 1
+/gun/energy 1.9962626262626262 GeV 
+/run/beamOn 1
+/gun/energy 1.9962626262626262 GeV 
+/run/beamOn 1
+/gun/energy 1.9962626262626262 GeV 
+/run/beamOn 1
+/gun/energy 1.9964646464646465 GeV 
+/run/beamOn 1
+/gun/energy 1.9964646464646465 GeV 
+/run/beamOn 1
+/gun/energy 1.9964646464646465 GeV 
+/run/beamOn 1
+/gun/energy 1.9964646464646465 GeV 
+/run/beamOn 1
+/gun/energy 1.9964646464646465 GeV 
+/run/beamOn 1
+/gun/energy 1.9964646464646465 GeV 
+/run/beamOn 1
+/gun/energy 1.9964646464646465 GeV 
+/run/beamOn 1
+/gun/energy 1.9964646464646465 GeV 
+/run/beamOn 1
+/gun/energy 1.9964646464646465 GeV 
+/run/beamOn 1
+/gun/energy 1.9964646464646465 GeV 
+/run/beamOn 1
+/gun/energy 1.9966666666666666 GeV 
+/run/beamOn 1
+/gun/energy 1.9966666666666666 GeV 
+/run/beamOn 1
+/gun/energy 1.9966666666666666 GeV 
+/run/beamOn 1
+/gun/energy 1.9966666666666666 GeV 
+/run/beamOn 1
+/gun/energy 1.9966666666666666 GeV 
+/run/beamOn 1
+/gun/energy 1.9966666666666666 GeV 
+/run/beamOn 1
+/gun/energy 1.9966666666666666 GeV 
+/run/beamOn 1
+/gun/energy 1.9966666666666666 GeV 
+/run/beamOn 1
+/gun/energy 1.9966666666666666 GeV 
+/run/beamOn 1
+/gun/energy 1.9966666666666666 GeV 
+/run/beamOn 1
+/gun/energy 1.9968686868686867 GeV 
+/run/beamOn 1
+/gun/energy 1.9968686868686867 GeV 
+/run/beamOn 1
+/gun/energy 1.9968686868686867 GeV 
+/run/beamOn 1
+/gun/energy 1.9968686868686867 GeV 
+/run/beamOn 1
+/gun/energy 1.9968686868686867 GeV 
+/run/beamOn 1
+/gun/energy 1.9968686868686867 GeV 
+/run/beamOn 1
+/gun/energy 1.9968686868686867 GeV 
+/run/beamOn 1
+/gun/energy 1.9968686868686867 GeV 
+/run/beamOn 1
+/gun/energy 1.9968686868686867 GeV 
+/run/beamOn 1
+/gun/energy 1.9968686868686867 GeV 
+/run/beamOn 1
+/gun/energy 1.997070707070707 GeV 
+/run/beamOn 1
+/gun/energy 1.997070707070707 GeV 
+/run/beamOn 1
+/gun/energy 1.997070707070707 GeV 
+/run/beamOn 1
+/gun/energy 1.997070707070707 GeV 
+/run/beamOn 1
+/gun/energy 1.997070707070707 GeV 
+/run/beamOn 1
+/gun/energy 1.997070707070707 GeV 
+/run/beamOn 1
+/gun/energy 1.997070707070707 GeV 
+/run/beamOn 1
+/gun/energy 1.997070707070707 GeV 
+/run/beamOn 1
+/gun/energy 1.997070707070707 GeV 
+/run/beamOn 1
+/gun/energy 1.997070707070707 GeV 
+/run/beamOn 1
+/gun/energy 1.997272727272727 GeV 
+/run/beamOn 1
+/gun/energy 1.997272727272727 GeV 
+/run/beamOn 1
+/gun/energy 1.997272727272727 GeV 
+/run/beamOn 1
+/gun/energy 1.997272727272727 GeV 
+/run/beamOn 1
+/gun/energy 1.997272727272727 GeV 
+/run/beamOn 1
+/gun/energy 1.997272727272727 GeV 
+/run/beamOn 1
+/gun/energy 1.997272727272727 GeV 
+/run/beamOn 1
+/gun/energy 1.997272727272727 GeV 
+/run/beamOn 1
+/gun/energy 1.997272727272727 GeV 
+/run/beamOn 1
+/gun/energy 1.997272727272727 GeV 
+/run/beamOn 1
+/gun/energy 1.9974747474747474 GeV 
+/run/beamOn 1
+/gun/energy 1.9974747474747474 GeV 
+/run/beamOn 1
+/gun/energy 1.9974747474747474 GeV 
+/run/beamOn 1
+/gun/energy 1.9974747474747474 GeV 
+/run/beamOn 1
+/gun/energy 1.9974747474747474 GeV 
+/run/beamOn 1
+/gun/energy 1.9974747474747474 GeV 
+/run/beamOn 1
+/gun/energy 1.9974747474747474 GeV 
+/run/beamOn 1
+/gun/energy 1.9974747474747474 GeV 
+/run/beamOn 1
+/gun/energy 1.9974747474747474 GeV 
+/run/beamOn 1
+/gun/energy 1.9974747474747474 GeV 
+/run/beamOn 1
+/gun/energy 1.9976767676767675 GeV 
+/run/beamOn 1
+/gun/energy 1.9976767676767675 GeV 
+/run/beamOn 1
+/gun/energy 1.9976767676767675 GeV 
+/run/beamOn 1
+/gun/energy 1.9976767676767675 GeV 
+/run/beamOn 1
+/gun/energy 1.9976767676767675 GeV 
+/run/beamOn 1
+/gun/energy 1.9976767676767675 GeV 
+/run/beamOn 1
+/gun/energy 1.9976767676767675 GeV 
+/run/beamOn 1
+/gun/energy 1.9976767676767675 GeV 
+/run/beamOn 1
+/gun/energy 1.9976767676767675 GeV 
+/run/beamOn 1
+/gun/energy 1.9976767676767675 GeV 
+/run/beamOn 1
+/gun/energy 1.9978787878787878 GeV 
+/run/beamOn 1
+/gun/energy 1.9978787878787878 GeV 
+/run/beamOn 1
+/gun/energy 1.9978787878787878 GeV 
+/run/beamOn 1
+/gun/energy 1.9978787878787878 GeV 
+/run/beamOn 1
+/gun/energy 1.9978787878787878 GeV 
+/run/beamOn 1
+/gun/energy 1.9978787878787878 GeV 
+/run/beamOn 1
+/gun/energy 1.9978787878787878 GeV 
+/run/beamOn 1
+/gun/energy 1.9978787878787878 GeV 
+/run/beamOn 1
+/gun/energy 1.9978787878787878 GeV 
+/run/beamOn 1
+/gun/energy 1.9978787878787878 GeV 
+/run/beamOn 1
+/gun/energy 1.998080808080808 GeV 
+/run/beamOn 1
+/gun/energy 1.998080808080808 GeV 
+/run/beamOn 1
+/gun/energy 1.998080808080808 GeV 
+/run/beamOn 1
+/gun/energy 1.998080808080808 GeV 
+/run/beamOn 1
+/gun/energy 1.998080808080808 GeV 
+/run/beamOn 1
+/gun/energy 1.998080808080808 GeV 
+/run/beamOn 1
+/gun/energy 1.998080808080808 GeV 
+/run/beamOn 1
+/gun/energy 1.998080808080808 GeV 
+/run/beamOn 1
+/gun/energy 1.998080808080808 GeV 
+/run/beamOn 1
+/gun/energy 1.998080808080808 GeV 
+/run/beamOn 1
+/gun/energy 1.9982828282828282 GeV 
+/run/beamOn 1
+/gun/energy 1.9982828282828282 GeV 
+/run/beamOn 1
+/gun/energy 1.9982828282828282 GeV 
+/run/beamOn 1
+/gun/energy 1.9982828282828282 GeV 
+/run/beamOn 1
+/gun/energy 1.9982828282828282 GeV 
+/run/beamOn 1
+/gun/energy 1.9982828282828282 GeV 
+/run/beamOn 1
+/gun/energy 1.9982828282828282 GeV 
+/run/beamOn 1
+/gun/energy 1.9982828282828282 GeV 
+/run/beamOn 1
+/gun/energy 1.9982828282828282 GeV 
+/run/beamOn 1
+/gun/energy 1.9982828282828282 GeV 
+/run/beamOn 1
+/gun/energy 1.9984848484848483 GeV 
+/run/beamOn 1
+/gun/energy 1.9984848484848483 GeV 
+/run/beamOn 1
+/gun/energy 1.9984848484848483 GeV 
+/run/beamOn 1
+/gun/energy 1.9984848484848483 GeV 
+/run/beamOn 1
+/gun/energy 1.9984848484848483 GeV 
+/run/beamOn 1
+/gun/energy 1.9984848484848483 GeV 
+/run/beamOn 1
+/gun/energy 1.9984848484848483 GeV 
+/run/beamOn 1
+/gun/energy 1.9984848484848483 GeV 
+/run/beamOn 1
+/gun/energy 1.9984848484848483 GeV 
+/run/beamOn 1
+/gun/energy 1.9984848484848483 GeV 
+/run/beamOn 1
+/gun/energy 1.9986868686868686 GeV 
+/run/beamOn 1
+/gun/energy 1.9986868686868686 GeV 
+/run/beamOn 1
+/gun/energy 1.9986868686868686 GeV 
+/run/beamOn 1
+/gun/energy 1.9986868686868686 GeV 
+/run/beamOn 1
+/gun/energy 1.9986868686868686 GeV 
+/run/beamOn 1
+/gun/energy 1.9986868686868686 GeV 
+/run/beamOn 1
+/gun/energy 1.9986868686868686 GeV 
+/run/beamOn 1
+/gun/energy 1.9986868686868686 GeV 
+/run/beamOn 1
+/gun/energy 1.9986868686868686 GeV 
+/run/beamOn 1
+/gun/energy 1.9986868686868686 GeV 
+/run/beamOn 1
+/gun/energy 1.9988888888888887 GeV 
+/run/beamOn 1
+/gun/energy 1.9988888888888887 GeV 
+/run/beamOn 1
+/gun/energy 1.9988888888888887 GeV 
+/run/beamOn 1
+/gun/energy 1.9988888888888887 GeV 
+/run/beamOn 1
+/gun/energy 1.9988888888888887 GeV 
+/run/beamOn 1
+/gun/energy 1.9988888888888887 GeV 
+/run/beamOn 1
+/gun/energy 1.9988888888888887 GeV 
+/run/beamOn 1
+/gun/energy 1.9988888888888887 GeV 
+/run/beamOn 1
+/gun/energy 1.9988888888888887 GeV 
+/run/beamOn 1
+/gun/energy 1.9988888888888887 GeV 
+/run/beamOn 1
+/gun/energy 1.999090909090909 GeV 
+/run/beamOn 1
+/gun/energy 1.999090909090909 GeV 
+/run/beamOn 1
+/gun/energy 1.999090909090909 GeV 
+/run/beamOn 1
+/gun/energy 1.999090909090909 GeV 
+/run/beamOn 1
+/gun/energy 1.999090909090909 GeV 
+/run/beamOn 1
+/gun/energy 1.999090909090909 GeV 
+/run/beamOn 1
+/gun/energy 1.999090909090909 GeV 
+/run/beamOn 1
+/gun/energy 1.999090909090909 GeV 
+/run/beamOn 1
+/gun/energy 1.999090909090909 GeV 
+/run/beamOn 1
+/gun/energy 1.999090909090909 GeV 
+/run/beamOn 1
+/gun/energy 1.9992929292929291 GeV 
+/run/beamOn 1
+/gun/energy 1.9992929292929291 GeV 
+/run/beamOn 1
+/gun/energy 1.9992929292929291 GeV 
+/run/beamOn 1
+/gun/energy 1.9992929292929291 GeV 
+/run/beamOn 1
+/gun/energy 1.9992929292929291 GeV 
+/run/beamOn 1
+/gun/energy 1.9992929292929291 GeV 
+/run/beamOn 1
+/gun/energy 1.9992929292929291 GeV 
+/run/beamOn 1
+/gun/energy 1.9992929292929291 GeV 
+/run/beamOn 1
+/gun/energy 1.9992929292929291 GeV 
+/run/beamOn 1
+/gun/energy 1.9992929292929291 GeV 
+/run/beamOn 1
+/gun/energy 1.9994949494949494 GeV 
+/run/beamOn 1
+/gun/energy 1.9994949494949494 GeV 
+/run/beamOn 1
+/gun/energy 1.9994949494949494 GeV 
+/run/beamOn 1
+/gun/energy 1.9994949494949494 GeV 
+/run/beamOn 1
+/gun/energy 1.9994949494949494 GeV 
+/run/beamOn 1
+/gun/energy 1.9994949494949494 GeV 
+/run/beamOn 1
+/gun/energy 1.9994949494949494 GeV 
+/run/beamOn 1
+/gun/energy 1.9994949494949494 GeV 
+/run/beamOn 1
+/gun/energy 1.9994949494949494 GeV 
+/run/beamOn 1
+/gun/energy 1.9994949494949494 GeV 
+/run/beamOn 1
+/gun/energy 1.9996969696969695 GeV 
+/run/beamOn 1
+/gun/energy 1.9996969696969695 GeV 
+/run/beamOn 1
+/gun/energy 1.9996969696969695 GeV 
+/run/beamOn 1
+/gun/energy 1.9996969696969695 GeV 
+/run/beamOn 1
+/gun/energy 1.9996969696969695 GeV 
+/run/beamOn 1
+/gun/energy 1.9996969696969695 GeV 
+/run/beamOn 1
+/gun/energy 1.9996969696969695 GeV 
+/run/beamOn 1
+/gun/energy 1.9996969696969695 GeV 
+/run/beamOn 1
+/gun/energy 1.9996969696969695 GeV 
+/run/beamOn 1
+/gun/energy 1.9996969696969695 GeV 
+/run/beamOn 1
+/gun/energy 1.9998989898989898 GeV 
+/run/beamOn 1
+/gun/energy 1.9998989898989898 GeV 
+/run/beamOn 1
+/gun/energy 1.9998989898989898 GeV 
+/run/beamOn 1
+/gun/energy 1.9998989898989898 GeV 
+/run/beamOn 1
+/gun/energy 1.9998989898989898 GeV 
+/run/beamOn 1
+/gun/energy 1.9998989898989898 GeV 
+/run/beamOn 1
+/gun/energy 1.9998989898989898 GeV 
+/run/beamOn 1
+/gun/energy 1.9998989898989898 GeV 
+/run/beamOn 1
+/gun/energy 1.9998989898989898 GeV 
+/run/beamOn 1
+/gun/energy 1.9998989898989898 GeV 
+/run/beamOn 1
+/gun/energy 2.00010101010101 GeV 
+/run/beamOn 1
+/gun/energy 2.00010101010101 GeV 
+/run/beamOn 1
+/gun/energy 2.00010101010101 GeV 
+/run/beamOn 1
+/gun/energy 2.00010101010101 GeV 
+/run/beamOn 1
+/gun/energy 2.00010101010101 GeV 
+/run/beamOn 1
+/gun/energy 2.00010101010101 GeV 
+/run/beamOn 1
+/gun/energy 2.00010101010101 GeV 
+/run/beamOn 1
+/gun/energy 2.00010101010101 GeV 
+/run/beamOn 1
+/gun/energy 2.00010101010101 GeV 
+/run/beamOn 1
+/gun/energy 2.00010101010101 GeV 
+/run/beamOn 1
+/gun/energy 2.00030303030303 GeV 
+/run/beamOn 1
+/gun/energy 2.00030303030303 GeV 
+/run/beamOn 1
+/gun/energy 2.00030303030303 GeV 
+/run/beamOn 1
+/gun/energy 2.00030303030303 GeV 
+/run/beamOn 1
+/gun/energy 2.00030303030303 GeV 
+/run/beamOn 1
+/gun/energy 2.00030303030303 GeV 
+/run/beamOn 1
+/gun/energy 2.00030303030303 GeV 
+/run/beamOn 1
+/gun/energy 2.00030303030303 GeV 
+/run/beamOn 1
+/gun/energy 2.00030303030303 GeV 
+/run/beamOn 1
+/gun/energy 2.00030303030303 GeV 
+/run/beamOn 1
+/gun/energy 2.0005050505050503 GeV 
+/run/beamOn 1
+/gun/energy 2.0005050505050503 GeV 
+/run/beamOn 1
+/gun/energy 2.0005050505050503 GeV 
+/run/beamOn 1
+/gun/energy 2.0005050505050503 GeV 
+/run/beamOn 1
+/gun/energy 2.0005050505050503 GeV 
+/run/beamOn 1
+/gun/energy 2.0005050505050503 GeV 
+/run/beamOn 1
+/gun/energy 2.0005050505050503 GeV 
+/run/beamOn 1
+/gun/energy 2.0005050505050503 GeV 
+/run/beamOn 1
+/gun/energy 2.0005050505050503 GeV 
+/run/beamOn 1
+/gun/energy 2.0005050505050503 GeV 
+/run/beamOn 1
+/gun/energy 2.0007070707070707 GeV 
+/run/beamOn 1
+/gun/energy 2.0007070707070707 GeV 
+/run/beamOn 1
+/gun/energy 2.0007070707070707 GeV 
+/run/beamOn 1
+/gun/energy 2.0007070707070707 GeV 
+/run/beamOn 1
+/gun/energy 2.0007070707070707 GeV 
+/run/beamOn 1
+/gun/energy 2.0007070707070707 GeV 
+/run/beamOn 1
+/gun/energy 2.0007070707070707 GeV 
+/run/beamOn 1
+/gun/energy 2.0007070707070707 GeV 
+/run/beamOn 1
+/gun/energy 2.0007070707070707 GeV 
+/run/beamOn 1
+/gun/energy 2.0007070707070707 GeV 
+/run/beamOn 1
+/gun/energy 2.000909090909091 GeV 
+/run/beamOn 1
+/gun/energy 2.000909090909091 GeV 
+/run/beamOn 1
+/gun/energy 2.000909090909091 GeV 
+/run/beamOn 1
+/gun/energy 2.000909090909091 GeV 
+/run/beamOn 1
+/gun/energy 2.000909090909091 GeV 
+/run/beamOn 1
+/gun/energy 2.000909090909091 GeV 
+/run/beamOn 1
+/gun/energy 2.000909090909091 GeV 
+/run/beamOn 1
+/gun/energy 2.000909090909091 GeV 
+/run/beamOn 1
+/gun/energy 2.000909090909091 GeV 
+/run/beamOn 1
+/gun/energy 2.000909090909091 GeV 
+/run/beamOn 1
+/gun/energy 2.001111111111111 GeV 
+/run/beamOn 1
+/gun/energy 2.001111111111111 GeV 
+/run/beamOn 1
+/gun/energy 2.001111111111111 GeV 
+/run/beamOn 1
+/gun/energy 2.001111111111111 GeV 
+/run/beamOn 1
+/gun/energy 2.001111111111111 GeV 
+/run/beamOn 1
+/gun/energy 2.001111111111111 GeV 
+/run/beamOn 1
+/gun/energy 2.001111111111111 GeV 
+/run/beamOn 1
+/gun/energy 2.001111111111111 GeV 
+/run/beamOn 1
+/gun/energy 2.001111111111111 GeV 
+/run/beamOn 1
+/gun/energy 2.001111111111111 GeV 
+/run/beamOn 1
+/gun/energy 2.001313131313131 GeV 
+/run/beamOn 1
+/gun/energy 2.001313131313131 GeV 
+/run/beamOn 1
+/gun/energy 2.001313131313131 GeV 
+/run/beamOn 1
+/gun/energy 2.001313131313131 GeV 
+/run/beamOn 1
+/gun/energy 2.001313131313131 GeV 
+/run/beamOn 1
+/gun/energy 2.001313131313131 GeV 
+/run/beamOn 1
+/gun/energy 2.001313131313131 GeV 
+/run/beamOn 1
+/gun/energy 2.001313131313131 GeV 
+/run/beamOn 1
+/gun/energy 2.001313131313131 GeV 
+/run/beamOn 1
+/gun/energy 2.001313131313131 GeV 
+/run/beamOn 1
+/gun/energy 2.0015151515151515 GeV 
+/run/beamOn 1
+/gun/energy 2.0015151515151515 GeV 
+/run/beamOn 1
+/gun/energy 2.0015151515151515 GeV 
+/run/beamOn 1
+/gun/energy 2.0015151515151515 GeV 
+/run/beamOn 1
+/gun/energy 2.0015151515151515 GeV 
+/run/beamOn 1
+/gun/energy 2.0015151515151515 GeV 
+/run/beamOn 1
+/gun/energy 2.0015151515151515 GeV 
+/run/beamOn 1
+/gun/energy 2.0015151515151515 GeV 
+/run/beamOn 1
+/gun/energy 2.0015151515151515 GeV 
+/run/beamOn 1
+/gun/energy 2.0015151515151515 GeV 
+/run/beamOn 1
+/gun/energy 2.001717171717172 GeV 
+/run/beamOn 1
+/gun/energy 2.001717171717172 GeV 
+/run/beamOn 1
+/gun/energy 2.001717171717172 GeV 
+/run/beamOn 1
+/gun/energy 2.001717171717172 GeV 
+/run/beamOn 1
+/gun/energy 2.001717171717172 GeV 
+/run/beamOn 1
+/gun/energy 2.001717171717172 GeV 
+/run/beamOn 1
+/gun/energy 2.001717171717172 GeV 
+/run/beamOn 1
+/gun/energy 2.001717171717172 GeV 
+/run/beamOn 1
+/gun/energy 2.001717171717172 GeV 
+/run/beamOn 1
+/gun/energy 2.001717171717172 GeV 
+/run/beamOn 1
+/gun/energy 2.0019191919191917 GeV 
+/run/beamOn 1
+/gun/energy 2.0019191919191917 GeV 
+/run/beamOn 1
+/gun/energy 2.0019191919191917 GeV 
+/run/beamOn 1
+/gun/energy 2.0019191919191917 GeV 
+/run/beamOn 1
+/gun/energy 2.0019191919191917 GeV 
+/run/beamOn 1
+/gun/energy 2.0019191919191917 GeV 
+/run/beamOn 1
+/gun/energy 2.0019191919191917 GeV 
+/run/beamOn 1
+/gun/energy 2.0019191919191917 GeV 
+/run/beamOn 1
+/gun/energy 2.0019191919191917 GeV 
+/run/beamOn 1
+/gun/energy 2.0019191919191917 GeV 
+/run/beamOn 1
+/gun/energy 2.002121212121212 GeV 
+/run/beamOn 1
+/gun/energy 2.002121212121212 GeV 
+/run/beamOn 1
+/gun/energy 2.002121212121212 GeV 
+/run/beamOn 1
+/gun/energy 2.002121212121212 GeV 
+/run/beamOn 1
+/gun/energy 2.002121212121212 GeV 
+/run/beamOn 1
+/gun/energy 2.002121212121212 GeV 
+/run/beamOn 1
+/gun/energy 2.002121212121212 GeV 
+/run/beamOn 1
+/gun/energy 2.002121212121212 GeV 
+/run/beamOn 1
+/gun/energy 2.002121212121212 GeV 
+/run/beamOn 1
+/gun/energy 2.002121212121212 GeV 
+/run/beamOn 1
+/gun/energy 2.0023232323232323 GeV 
+/run/beamOn 1
+/gun/energy 2.0023232323232323 GeV 
+/run/beamOn 1
+/gun/energy 2.0023232323232323 GeV 
+/run/beamOn 1
+/gun/energy 2.0023232323232323 GeV 
+/run/beamOn 1
+/gun/energy 2.0023232323232323 GeV 
+/run/beamOn 1
+/gun/energy 2.0023232323232323 GeV 
+/run/beamOn 1
+/gun/energy 2.0023232323232323 GeV 
+/run/beamOn 1
+/gun/energy 2.0023232323232323 GeV 
+/run/beamOn 1
+/gun/energy 2.0023232323232323 GeV 
+/run/beamOn 1
+/gun/energy 2.0023232323232323 GeV 
+/run/beamOn 1
+/gun/energy 2.0025252525252526 GeV 
+/run/beamOn 1
+/gun/energy 2.0025252525252526 GeV 
+/run/beamOn 1
+/gun/energy 2.0025252525252526 GeV 
+/run/beamOn 1
+/gun/energy 2.0025252525252526 GeV 
+/run/beamOn 1
+/gun/energy 2.0025252525252526 GeV 
+/run/beamOn 1
+/gun/energy 2.0025252525252526 GeV 
+/run/beamOn 1
+/gun/energy 2.0025252525252526 GeV 
+/run/beamOn 1
+/gun/energy 2.0025252525252526 GeV 
+/run/beamOn 1
+/gun/energy 2.0025252525252526 GeV 
+/run/beamOn 1
+/gun/energy 2.0025252525252526 GeV 
+/run/beamOn 1
+/gun/energy 2.0027272727272725 GeV 
+/run/beamOn 1
+/gun/energy 2.0027272727272725 GeV 
+/run/beamOn 1
+/gun/energy 2.0027272727272725 GeV 
+/run/beamOn 1
+/gun/energy 2.0027272727272725 GeV 
+/run/beamOn 1
+/gun/energy 2.0027272727272725 GeV 
+/run/beamOn 1
+/gun/energy 2.0027272727272725 GeV 
+/run/beamOn 1
+/gun/energy 2.0027272727272725 GeV 
+/run/beamOn 1
+/gun/energy 2.0027272727272725 GeV 
+/run/beamOn 1
+/gun/energy 2.0027272727272725 GeV 
+/run/beamOn 1
+/gun/energy 2.0027272727272725 GeV 
+/run/beamOn 1
+/gun/energy 2.002929292929293 GeV 
+/run/beamOn 1
+/gun/energy 2.002929292929293 GeV 
+/run/beamOn 1
+/gun/energy 2.002929292929293 GeV 
+/run/beamOn 1
+/gun/energy 2.002929292929293 GeV 
+/run/beamOn 1
+/gun/energy 2.002929292929293 GeV 
+/run/beamOn 1
+/gun/energy 2.002929292929293 GeV 
+/run/beamOn 1
+/gun/energy 2.002929292929293 GeV 
+/run/beamOn 1
+/gun/energy 2.002929292929293 GeV 
+/run/beamOn 1
+/gun/energy 2.002929292929293 GeV 
+/run/beamOn 1
+/gun/energy 2.002929292929293 GeV 
+/run/beamOn 1
+/gun/energy 2.003131313131313 GeV 
+/run/beamOn 1
+/gun/energy 2.003131313131313 GeV 
+/run/beamOn 1
+/gun/energy 2.003131313131313 GeV 
+/run/beamOn 1
+/gun/energy 2.003131313131313 GeV 
+/run/beamOn 1
+/gun/energy 2.003131313131313 GeV 
+/run/beamOn 1
+/gun/energy 2.003131313131313 GeV 
+/run/beamOn 1
+/gun/energy 2.003131313131313 GeV 
+/run/beamOn 1
+/gun/energy 2.003131313131313 GeV 
+/run/beamOn 1
+/gun/energy 2.003131313131313 GeV 
+/run/beamOn 1
+/gun/energy 2.003131313131313 GeV 
+/run/beamOn 1
+/gun/energy 2.003333333333333 GeV 
+/run/beamOn 1
+/gun/energy 2.003333333333333 GeV 
+/run/beamOn 1
+/gun/energy 2.003333333333333 GeV 
+/run/beamOn 1
+/gun/energy 2.003333333333333 GeV 
+/run/beamOn 1
+/gun/energy 2.003333333333333 GeV 
+/run/beamOn 1
+/gun/energy 2.003333333333333 GeV 
+/run/beamOn 1
+/gun/energy 2.003333333333333 GeV 
+/run/beamOn 1
+/gun/energy 2.003333333333333 GeV 
+/run/beamOn 1
+/gun/energy 2.003333333333333 GeV 
+/run/beamOn 1
+/gun/energy 2.003333333333333 GeV 
+/run/beamOn 1
+/gun/energy 2.0035353535353533 GeV 
+/run/beamOn 1
+/gun/energy 2.0035353535353533 GeV 
+/run/beamOn 1
+/gun/energy 2.0035353535353533 GeV 
+/run/beamOn 1
+/gun/energy 2.0035353535353533 GeV 
+/run/beamOn 1
+/gun/energy 2.0035353535353533 GeV 
+/run/beamOn 1
+/gun/energy 2.0035353535353533 GeV 
+/run/beamOn 1
+/gun/energy 2.0035353535353533 GeV 
+/run/beamOn 1
+/gun/energy 2.0035353535353533 GeV 
+/run/beamOn 1
+/gun/energy 2.0035353535353533 GeV 
+/run/beamOn 1
+/gun/energy 2.0035353535353533 GeV 
+/run/beamOn 1
+/gun/energy 2.0037373737373736 GeV 
+/run/beamOn 1
+/gun/energy 2.0037373737373736 GeV 
+/run/beamOn 1
+/gun/energy 2.0037373737373736 GeV 
+/run/beamOn 1
+/gun/energy 2.0037373737373736 GeV 
+/run/beamOn 1
+/gun/energy 2.0037373737373736 GeV 
+/run/beamOn 1
+/gun/energy 2.0037373737373736 GeV 
+/run/beamOn 1
+/gun/energy 2.0037373737373736 GeV 
+/run/beamOn 1
+/gun/energy 2.0037373737373736 GeV 
+/run/beamOn 1
+/gun/energy 2.0037373737373736 GeV 
+/run/beamOn 1
+/gun/energy 2.0037373737373736 GeV 
+/run/beamOn 1
+/gun/energy 2.003939393939394 GeV 
+/run/beamOn 1
+/gun/energy 2.003939393939394 GeV 
+/run/beamOn 1
+/gun/energy 2.003939393939394 GeV 
+/run/beamOn 1
+/gun/energy 2.003939393939394 GeV 
+/run/beamOn 1
+/gun/energy 2.003939393939394 GeV 
+/run/beamOn 1
+/gun/energy 2.003939393939394 GeV 
+/run/beamOn 1
+/gun/energy 2.003939393939394 GeV 
+/run/beamOn 1
+/gun/energy 2.003939393939394 GeV 
+/run/beamOn 1
+/gun/energy 2.003939393939394 GeV 
+/run/beamOn 1
+/gun/energy 2.003939393939394 GeV 
+/run/beamOn 1
+/gun/energy 2.004141414141414 GeV 
+/run/beamOn 1
+/gun/energy 2.004141414141414 GeV 
+/run/beamOn 1
+/gun/energy 2.004141414141414 GeV 
+/run/beamOn 1
+/gun/energy 2.004141414141414 GeV 
+/run/beamOn 1
+/gun/energy 2.004141414141414 GeV 
+/run/beamOn 1
+/gun/energy 2.004141414141414 GeV 
+/run/beamOn 1
+/gun/energy 2.004141414141414 GeV 
+/run/beamOn 1
+/gun/energy 2.004141414141414 GeV 
+/run/beamOn 1
+/gun/energy 2.004141414141414 GeV 
+/run/beamOn 1
+/gun/energy 2.004141414141414 GeV 
+/run/beamOn 1
+/gun/energy 2.004343434343434 GeV 
+/run/beamOn 1
+/gun/energy 2.004343434343434 GeV 
+/run/beamOn 1
+/gun/energy 2.004343434343434 GeV 
+/run/beamOn 1
+/gun/energy 2.004343434343434 GeV 
+/run/beamOn 1
+/gun/energy 2.004343434343434 GeV 
+/run/beamOn 1
+/gun/energy 2.004343434343434 GeV 
+/run/beamOn 1
+/gun/energy 2.004343434343434 GeV 
+/run/beamOn 1
+/gun/energy 2.004343434343434 GeV 
+/run/beamOn 1
+/gun/energy 2.004343434343434 GeV 
+/run/beamOn 1
+/gun/energy 2.004343434343434 GeV 
+/run/beamOn 1
+/gun/energy 2.0045454545454544 GeV 
+/run/beamOn 1
+/gun/energy 2.0045454545454544 GeV 
+/run/beamOn 1
+/gun/energy 2.0045454545454544 GeV 
+/run/beamOn 1
+/gun/energy 2.0045454545454544 GeV 
+/run/beamOn 1
+/gun/energy 2.0045454545454544 GeV 
+/run/beamOn 1
+/gun/energy 2.0045454545454544 GeV 
+/run/beamOn 1
+/gun/energy 2.0045454545454544 GeV 
+/run/beamOn 1
+/gun/energy 2.0045454545454544 GeV 
+/run/beamOn 1
+/gun/energy 2.0045454545454544 GeV 
+/run/beamOn 1
+/gun/energy 2.0045454545454544 GeV 
+/run/beamOn 1
+/gun/energy 2.0047474747474747 GeV 
+/run/beamOn 1
+/gun/energy 2.0047474747474747 GeV 
+/run/beamOn 1
+/gun/energy 2.0047474747474747 GeV 
+/run/beamOn 1
+/gun/energy 2.0047474747474747 GeV 
+/run/beamOn 1
+/gun/energy 2.0047474747474747 GeV 
+/run/beamOn 1
+/gun/energy 2.0047474747474747 GeV 
+/run/beamOn 1
+/gun/energy 2.0047474747474747 GeV 
+/run/beamOn 1
+/gun/energy 2.0047474747474747 GeV 
+/run/beamOn 1
+/gun/energy 2.0047474747474747 GeV 
+/run/beamOn 1
+/gun/energy 2.0047474747474747 GeV 
+/run/beamOn 1
+/gun/energy 2.0049494949494946 GeV 
+/run/beamOn 1
+/gun/energy 2.0049494949494946 GeV 
+/run/beamOn 1
+/gun/energy 2.0049494949494946 GeV 
+/run/beamOn 1
+/gun/energy 2.0049494949494946 GeV 
+/run/beamOn 1
+/gun/energy 2.0049494949494946 GeV 
+/run/beamOn 1
+/gun/energy 2.0049494949494946 GeV 
+/run/beamOn 1
+/gun/energy 2.0049494949494946 GeV 
+/run/beamOn 1
+/gun/energy 2.0049494949494946 GeV 
+/run/beamOn 1
+/gun/energy 2.0049494949494946 GeV 
+/run/beamOn 1
+/gun/energy 2.0049494949494946 GeV 
+/run/beamOn 1
+/gun/energy 2.005151515151515 GeV 
+/run/beamOn 1
+/gun/energy 2.005151515151515 GeV 
+/run/beamOn 1
+/gun/energy 2.005151515151515 GeV 
+/run/beamOn 1
+/gun/energy 2.005151515151515 GeV 
+/run/beamOn 1
+/gun/energy 2.005151515151515 GeV 
+/run/beamOn 1
+/gun/energy 2.005151515151515 GeV 
+/run/beamOn 1
+/gun/energy 2.005151515151515 GeV 
+/run/beamOn 1
+/gun/energy 2.005151515151515 GeV 
+/run/beamOn 1
+/gun/energy 2.005151515151515 GeV 
+/run/beamOn 1
+/gun/energy 2.005151515151515 GeV 
+/run/beamOn 1
+/gun/energy 2.005353535353535 GeV 
+/run/beamOn 1
+/gun/energy 2.005353535353535 GeV 
+/run/beamOn 1
+/gun/energy 2.005353535353535 GeV 
+/run/beamOn 1
+/gun/energy 2.005353535353535 GeV 
+/run/beamOn 1
+/gun/energy 2.005353535353535 GeV 
+/run/beamOn 1
+/gun/energy 2.005353535353535 GeV 
+/run/beamOn 1
+/gun/energy 2.005353535353535 GeV 
+/run/beamOn 1
+/gun/energy 2.005353535353535 GeV 
+/run/beamOn 1
+/gun/energy 2.005353535353535 GeV 
+/run/beamOn 1
+/gun/energy 2.005353535353535 GeV 
+/run/beamOn 1
+/gun/energy 2.0055555555555555 GeV 
+/run/beamOn 1
+/gun/energy 2.0055555555555555 GeV 
+/run/beamOn 1
+/gun/energy 2.0055555555555555 GeV 
+/run/beamOn 1
+/gun/energy 2.0055555555555555 GeV 
+/run/beamOn 1
+/gun/energy 2.0055555555555555 GeV 
+/run/beamOn 1
+/gun/energy 2.0055555555555555 GeV 
+/run/beamOn 1
+/gun/energy 2.0055555555555555 GeV 
+/run/beamOn 1
+/gun/energy 2.0055555555555555 GeV 
+/run/beamOn 1
+/gun/energy 2.0055555555555555 GeV 
+/run/beamOn 1
+/gun/energy 2.0055555555555555 GeV 
+/run/beamOn 1
+/gun/energy 2.0057575757575754 GeV 
+/run/beamOn 1
+/gun/energy 2.0057575757575754 GeV 
+/run/beamOn 1
+/gun/energy 2.0057575757575754 GeV 
+/run/beamOn 1
+/gun/energy 2.0057575757575754 GeV 
+/run/beamOn 1
+/gun/energy 2.0057575757575754 GeV 
+/run/beamOn 1
+/gun/energy 2.0057575757575754 GeV 
+/run/beamOn 1
+/gun/energy 2.0057575757575754 GeV 
+/run/beamOn 1
+/gun/energy 2.0057575757575754 GeV 
+/run/beamOn 1
+/gun/energy 2.0057575757575754 GeV 
+/run/beamOn 1
+/gun/energy 2.0057575757575754 GeV 
+/run/beamOn 1
+/gun/energy 2.0059595959595957 GeV 
+/run/beamOn 1
+/gun/energy 2.0059595959595957 GeV 
+/run/beamOn 1
+/gun/energy 2.0059595959595957 GeV 
+/run/beamOn 1
+/gun/energy 2.0059595959595957 GeV 
+/run/beamOn 1
+/gun/energy 2.0059595959595957 GeV 
+/run/beamOn 1
+/gun/energy 2.0059595959595957 GeV 
+/run/beamOn 1
+/gun/energy 2.0059595959595957 GeV 
+/run/beamOn 1
+/gun/energy 2.0059595959595957 GeV 
+/run/beamOn 1
+/gun/energy 2.0059595959595957 GeV 
+/run/beamOn 1
+/gun/energy 2.0059595959595957 GeV 
+/run/beamOn 1
+/gun/energy 2.006161616161616 GeV 
+/run/beamOn 1
+/gun/energy 2.006161616161616 GeV 
+/run/beamOn 1
+/gun/energy 2.006161616161616 GeV 
+/run/beamOn 1
+/gun/energy 2.006161616161616 GeV 
+/run/beamOn 1
+/gun/energy 2.006161616161616 GeV 
+/run/beamOn 1
+/gun/energy 2.006161616161616 GeV 
+/run/beamOn 1
+/gun/energy 2.006161616161616 GeV 
+/run/beamOn 1
+/gun/energy 2.006161616161616 GeV 
+/run/beamOn 1
+/gun/energy 2.006161616161616 GeV 
+/run/beamOn 1
+/gun/energy 2.006161616161616 GeV 
+/run/beamOn 1
+/gun/energy 2.0063636363636363 GeV 
+/run/beamOn 1
+/gun/energy 2.0063636363636363 GeV 
+/run/beamOn 1
+/gun/energy 2.0063636363636363 GeV 
+/run/beamOn 1
+/gun/energy 2.0063636363636363 GeV 
+/run/beamOn 1
+/gun/energy 2.0063636363636363 GeV 
+/run/beamOn 1
+/gun/energy 2.0063636363636363 GeV 
+/run/beamOn 1
+/gun/energy 2.0063636363636363 GeV 
+/run/beamOn 1
+/gun/energy 2.0063636363636363 GeV 
+/run/beamOn 1
+/gun/energy 2.0063636363636363 GeV 
+/run/beamOn 1
+/gun/energy 2.0063636363636363 GeV 
+/run/beamOn 1
+/gun/energy 2.006565656565656 GeV 
+/run/beamOn 1
+/gun/energy 2.006565656565656 GeV 
+/run/beamOn 1
+/gun/energy 2.006565656565656 GeV 
+/run/beamOn 1
+/gun/energy 2.006565656565656 GeV 
+/run/beamOn 1
+/gun/energy 2.006565656565656 GeV 
+/run/beamOn 1
+/gun/energy 2.006565656565656 GeV 
+/run/beamOn 1
+/gun/energy 2.006565656565656 GeV 
+/run/beamOn 1
+/gun/energy 2.006565656565656 GeV 
+/run/beamOn 1
+/gun/energy 2.006565656565656 GeV 
+/run/beamOn 1
+/gun/energy 2.006565656565656 GeV 
+/run/beamOn 1
+/gun/energy 2.0067676767676765 GeV 
+/run/beamOn 1
+/gun/energy 2.0067676767676765 GeV 
+/run/beamOn 1
+/gun/energy 2.0067676767676765 GeV 
+/run/beamOn 1
+/gun/energy 2.0067676767676765 GeV 
+/run/beamOn 1
+/gun/energy 2.0067676767676765 GeV 
+/run/beamOn 1
+/gun/energy 2.0067676767676765 GeV 
+/run/beamOn 1
+/gun/energy 2.0067676767676765 GeV 
+/run/beamOn 1
+/gun/energy 2.0067676767676765 GeV 
+/run/beamOn 1
+/gun/energy 2.0067676767676765 GeV 
+/run/beamOn 1
+/gun/energy 2.0067676767676765 GeV 
+/run/beamOn 1
+/gun/energy 2.006969696969697 GeV 
+/run/beamOn 1
+/gun/energy 2.006969696969697 GeV 
+/run/beamOn 1
+/gun/energy 2.006969696969697 GeV 
+/run/beamOn 1
+/gun/energy 2.006969696969697 GeV 
+/run/beamOn 1
+/gun/energy 2.006969696969697 GeV 
+/run/beamOn 1
+/gun/energy 2.006969696969697 GeV 
+/run/beamOn 1
+/gun/energy 2.006969696969697 GeV 
+/run/beamOn 1
+/gun/energy 2.006969696969697 GeV 
+/run/beamOn 1
+/gun/energy 2.006969696969697 GeV 
+/run/beamOn 1
+/gun/energy 2.006969696969697 GeV 
+/run/beamOn 1
+/gun/energy 2.007171717171717 GeV 
+/run/beamOn 1
+/gun/energy 2.007171717171717 GeV 
+/run/beamOn 1
+/gun/energy 2.007171717171717 GeV 
+/run/beamOn 1
+/gun/energy 2.007171717171717 GeV 
+/run/beamOn 1
+/gun/energy 2.007171717171717 GeV 
+/run/beamOn 1
+/gun/energy 2.007171717171717 GeV 
+/run/beamOn 1
+/gun/energy 2.007171717171717 GeV 
+/run/beamOn 1
+/gun/energy 2.007171717171717 GeV 
+/run/beamOn 1
+/gun/energy 2.007171717171717 GeV 
+/run/beamOn 1
+/gun/energy 2.007171717171717 GeV 
+/run/beamOn 1
+/gun/energy 2.007373737373737 GeV 
+/run/beamOn 1
+/gun/energy 2.007373737373737 GeV 
+/run/beamOn 1
+/gun/energy 2.007373737373737 GeV 
+/run/beamOn 1
+/gun/energy 2.007373737373737 GeV 
+/run/beamOn 1
+/gun/energy 2.007373737373737 GeV 
+/run/beamOn 1
+/gun/energy 2.007373737373737 GeV 
+/run/beamOn 1
+/gun/energy 2.007373737373737 GeV 
+/run/beamOn 1
+/gun/energy 2.007373737373737 GeV 
+/run/beamOn 1
+/gun/energy 2.007373737373737 GeV 
+/run/beamOn 1
+/gun/energy 2.007373737373737 GeV 
+/run/beamOn 1
+/gun/energy 2.0075757575757573 GeV 
+/run/beamOn 1
+/gun/energy 2.0075757575757573 GeV 
+/run/beamOn 1
+/gun/energy 2.0075757575757573 GeV 
+/run/beamOn 1
+/gun/energy 2.0075757575757573 GeV 
+/run/beamOn 1
+/gun/energy 2.0075757575757573 GeV 
+/run/beamOn 1
+/gun/energy 2.0075757575757573 GeV 
+/run/beamOn 1
+/gun/energy 2.0075757575757573 GeV 
+/run/beamOn 1
+/gun/energy 2.0075757575757573 GeV 
+/run/beamOn 1
+/gun/energy 2.0075757575757573 GeV 
+/run/beamOn 1
+/gun/energy 2.0075757575757573 GeV 
+/run/beamOn 1
+/gun/energy 2.0077777777777777 GeV 
+/run/beamOn 1
+/gun/energy 2.0077777777777777 GeV 
+/run/beamOn 1
+/gun/energy 2.0077777777777777 GeV 
+/run/beamOn 1
+/gun/energy 2.0077777777777777 GeV 
+/run/beamOn 1
+/gun/energy 2.0077777777777777 GeV 
+/run/beamOn 1
+/gun/energy 2.0077777777777777 GeV 
+/run/beamOn 1
+/gun/energy 2.0077777777777777 GeV 
+/run/beamOn 1
+/gun/energy 2.0077777777777777 GeV 
+/run/beamOn 1
+/gun/energy 2.0077777777777777 GeV 
+/run/beamOn 1
+/gun/energy 2.0077777777777777 GeV 
+/run/beamOn 1
+/gun/energy 2.007979797979798 GeV 
+/run/beamOn 1
+/gun/energy 2.007979797979798 GeV 
+/run/beamOn 1
+/gun/energy 2.007979797979798 GeV 
+/run/beamOn 1
+/gun/energy 2.007979797979798 GeV 
+/run/beamOn 1
+/gun/energy 2.007979797979798 GeV 
+/run/beamOn 1
+/gun/energy 2.007979797979798 GeV 
+/run/beamOn 1
+/gun/energy 2.007979797979798 GeV 
+/run/beamOn 1
+/gun/energy 2.007979797979798 GeV 
+/run/beamOn 1
+/gun/energy 2.007979797979798 GeV 
+/run/beamOn 1
+/gun/energy 2.007979797979798 GeV 
+/run/beamOn 1
+/gun/energy 2.008181818181818 GeV 
+/run/beamOn 1
+/gun/energy 2.008181818181818 GeV 
+/run/beamOn 1
+/gun/energy 2.008181818181818 GeV 
+/run/beamOn 1
+/gun/energy 2.008181818181818 GeV 
+/run/beamOn 1
+/gun/energy 2.008181818181818 GeV 
+/run/beamOn 1
+/gun/energy 2.008181818181818 GeV 
+/run/beamOn 1
+/gun/energy 2.008181818181818 GeV 
+/run/beamOn 1
+/gun/energy 2.008181818181818 GeV 
+/run/beamOn 1
+/gun/energy 2.008181818181818 GeV 
+/run/beamOn 1
+/gun/energy 2.008181818181818 GeV 
+/run/beamOn 1
+/gun/energy 2.008383838383838 GeV 
+/run/beamOn 1
+/gun/energy 2.008383838383838 GeV 
+/run/beamOn 1
+/gun/energy 2.008383838383838 GeV 
+/run/beamOn 1
+/gun/energy 2.008383838383838 GeV 
+/run/beamOn 1
+/gun/energy 2.008383838383838 GeV 
+/run/beamOn 1
+/gun/energy 2.008383838383838 GeV 
+/run/beamOn 1
+/gun/energy 2.008383838383838 GeV 
+/run/beamOn 1
+/gun/energy 2.008383838383838 GeV 
+/run/beamOn 1
+/gun/energy 2.008383838383838 GeV 
+/run/beamOn 1
+/gun/energy 2.008383838383838 GeV 
+/run/beamOn 1
+/gun/energy 2.0085858585858585 GeV 
+/run/beamOn 1
+/gun/energy 2.0085858585858585 GeV 
+/run/beamOn 1
+/gun/energy 2.0085858585858585 GeV 
+/run/beamOn 1
+/gun/energy 2.0085858585858585 GeV 
+/run/beamOn 1
+/gun/energy 2.0085858585858585 GeV 
+/run/beamOn 1
+/gun/energy 2.0085858585858585 GeV 
+/run/beamOn 1
+/gun/energy 2.0085858585858585 GeV 
+/run/beamOn 1
+/gun/energy 2.0085858585858585 GeV 
+/run/beamOn 1
+/gun/energy 2.0085858585858585 GeV 
+/run/beamOn 1
+/gun/energy 2.0085858585858585 GeV 
+/run/beamOn 1
+/gun/energy 2.008787878787879 GeV 
+/run/beamOn 1
+/gun/energy 2.008787878787879 GeV 
+/run/beamOn 1
+/gun/energy 2.008787878787879 GeV 
+/run/beamOn 1
+/gun/energy 2.008787878787879 GeV 
+/run/beamOn 1
+/gun/energy 2.008787878787879 GeV 
+/run/beamOn 1
+/gun/energy 2.008787878787879 GeV 
+/run/beamOn 1
+/gun/energy 2.008787878787879 GeV 
+/run/beamOn 1
+/gun/energy 2.008787878787879 GeV 
+/run/beamOn 1
+/gun/energy 2.008787878787879 GeV 
+/run/beamOn 1
+/gun/energy 2.008787878787879 GeV 
+/run/beamOn 1
+/gun/energy 2.0089898989898987 GeV 
+/run/beamOn 1
+/gun/energy 2.0089898989898987 GeV 
+/run/beamOn 1
+/gun/energy 2.0089898989898987 GeV 
+/run/beamOn 1
+/gun/energy 2.0089898989898987 GeV 
+/run/beamOn 1
+/gun/energy 2.0089898989898987 GeV 
+/run/beamOn 1
+/gun/energy 2.0089898989898987 GeV 
+/run/beamOn 1
+/gun/energy 2.0089898989898987 GeV 
+/run/beamOn 1
+/gun/energy 2.0089898989898987 GeV 
+/run/beamOn 1
+/gun/energy 2.0089898989898987 GeV 
+/run/beamOn 1
+/gun/energy 2.0089898989898987 GeV 
+/run/beamOn 1
+/gun/energy 2.009191919191919 GeV 
+/run/beamOn 1
+/gun/energy 2.009191919191919 GeV 
+/run/beamOn 1
+/gun/energy 2.009191919191919 GeV 
+/run/beamOn 1
+/gun/energy 2.009191919191919 GeV 
+/run/beamOn 1
+/gun/energy 2.009191919191919 GeV 
+/run/beamOn 1
+/gun/energy 2.009191919191919 GeV 
+/run/beamOn 1
+/gun/energy 2.009191919191919 GeV 
+/run/beamOn 1
+/gun/energy 2.009191919191919 GeV 
+/run/beamOn 1
+/gun/energy 2.009191919191919 GeV 
+/run/beamOn 1
+/gun/energy 2.009191919191919 GeV 
+/run/beamOn 1
+/gun/energy 2.0093939393939393 GeV 
+/run/beamOn 1
+/gun/energy 2.0093939393939393 GeV 
+/run/beamOn 1
+/gun/energy 2.0093939393939393 GeV 
+/run/beamOn 1
+/gun/energy 2.0093939393939393 GeV 
+/run/beamOn 1
+/gun/energy 2.0093939393939393 GeV 
+/run/beamOn 1
+/gun/energy 2.0093939393939393 GeV 
+/run/beamOn 1
+/gun/energy 2.0093939393939393 GeV 
+/run/beamOn 1
+/gun/energy 2.0093939393939393 GeV 
+/run/beamOn 1
+/gun/energy 2.0093939393939393 GeV 
+/run/beamOn 1
+/gun/energy 2.0093939393939393 GeV 
+/run/beamOn 1
+/gun/energy 2.0095959595959596 GeV 
+/run/beamOn 1
+/gun/energy 2.0095959595959596 GeV 
+/run/beamOn 1
+/gun/energy 2.0095959595959596 GeV 
+/run/beamOn 1
+/gun/energy 2.0095959595959596 GeV 
+/run/beamOn 1
+/gun/energy 2.0095959595959596 GeV 
+/run/beamOn 1
+/gun/energy 2.0095959595959596 GeV 
+/run/beamOn 1
+/gun/energy 2.0095959595959596 GeV 
+/run/beamOn 1
+/gun/energy 2.0095959595959596 GeV 
+/run/beamOn 1
+/gun/energy 2.0095959595959596 GeV 
+/run/beamOn 1
+/gun/energy 2.0095959595959596 GeV 
+/run/beamOn 1
+/gun/energy 2.0097979797979795 GeV 
+/run/beamOn 1
+/gun/energy 2.0097979797979795 GeV 
+/run/beamOn 1
+/gun/energy 2.0097979797979795 GeV 
+/run/beamOn 1
+/gun/energy 2.0097979797979795 GeV 
+/run/beamOn 1
+/gun/energy 2.0097979797979795 GeV 
+/run/beamOn 1
+/gun/energy 2.0097979797979795 GeV 
+/run/beamOn 1
+/gun/energy 2.0097979797979795 GeV 
+/run/beamOn 1
+/gun/energy 2.0097979797979795 GeV 
+/run/beamOn 1
+/gun/energy 2.0097979797979795 GeV 
+/run/beamOn 1
+/gun/energy 2.0097979797979795 GeV 
+/run/beamOn 1
+/gun/energy 2.01 GeV 
+/run/beamOn 1
+/gun/energy 2.01 GeV 
+/run/beamOn 1
+/gun/energy 2.01 GeV 
+/run/beamOn 1
+/gun/energy 2.01 GeV 
+/run/beamOn 1
+/gun/energy 2.01 GeV 
+/run/beamOn 1
+/gun/energy 2.01 GeV 
+/run/beamOn 1
+/gun/energy 2.01 GeV 
+/run/beamOn 1
+/gun/energy 2.01 GeV 
+/run/beamOn 1
+/gun/energy 2.01 GeV 
+/run/beamOn 1
+/gun/energy 2.01 GeV 
+/run/beamOn 1
+
